@@ -1,99 +1,74 @@
-<h1 align="center"> 🎂 Customizable Birthday Web Template 🎂 </h1>
+<h1 align="center">🎂🔥 Birthday-Wish: Certified Birthday Drama Website 😈</h1>
 
+<p align="center">
+Because a normal “Happy Birthday” message is boring and you deserve extra embarrassment 🎉
+</p>
 
-[![Stars](https://img.shields.io/github/stars/Manish-Prajapati32/manish?style=for-the-badge)](https://github.com/Manish-Prajapati32/manish/stargazers)
-[![Forks](https://img.shields.io/github/forks/Manish-Prajapati32/manish?style=for-the-badge)](https://github.com/Manish-Prajapati32/manish/network/members)
-[![License](https://img.shields.io/github/license/Manish-Prajapati32/manish?style=for-the-badge)](LICENSE)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://manish-prajapati32.github.io/manish/)
-<a href="https://hits.sh/github.com/Manish-Prajapati32/manish/"><img alt="Hits" src="https://hits.sh/github.com/Manish-Prajapati32/manish.svg?style=for-the-badge"/></a>
-<a href="https://hits.sh/github.com/Manish-Prajapati32/manish/"><img alt="Hits" src="https://hits.sh/github.com/Manish-Prajapati32/manish.svg?view=today-total&style=for-the-badge&color=fe7d37"/></a>
-  
-
-
-
-A versatile and user-friendly website template designed to celebrate birthdays in a fun and personalized way. This project features a beautiful animation to wish your loved ones a happy birthday.
-
-![Birthday Animation Screenshot](https://raw.githubusercontent.com/sapthesh/Birthday/master/b1.png)
-![Birthday Animation Screenshot](https://raw.githubusercontent.com/sapthesh/Birthday/master/b2.png)
-![Birthday Animation Screenshot](https://raw.githubusercontent.com/sapthesh/Birthday/master/b3.png)
-![Birthday Animation Screenshot](https://raw.githubusercontent.com/sapthesh/Birthday/master/b4.png)
-![Birthday Animation Screenshot](https://raw.githubusercontent.com/sapthesh/Birthday/master/b5.png)
-
-## 📜 Overview
-
-This project is a simple, yet elegant, single-page web application that displays a birthday animation. It's built with HTML, CSS, and JavaScript, and it's designed to be easily customizable for anyone to use.
+<p align="center">
+  <img src="https://img.shields.io/github/stars/Manish-Prajapati32/Birthday-Wish?style=for-the-badge" />
+  <img src="https://img.shields.io/github/forks/Manish-Prajapati32/Birthday-Wish?style=for-the-badge" />
+  <img src="https://img.shields.io/github/license/Manish-Prajapati32/Birthday-Wish?style=for-the-badge" />
+  <a href="https://manish-prajapati32.github.io/Birthday-Wish/">
+    <img src="https://img.shields.io/badge/Live-Demo-Go%20Cry%20Here-brightgreen?style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
-## ✨ Key Features
+## 🤡 What Is This Madness?
 
-* **Beautiful Animations:** A delightful birthday-themed animation to surprise and impress.
-* **Easily Customizable:** Simple to personalize with the name of the person you're celebrating.
-* **Responsive Design:** Looks great on all devices, from desktops to mobile phones.
-* **Lightweight:** No heavy frameworks or libraries, making it fast and easy to deploy.
+**Birthday-Wish** is a fun, animated birthday website designed to:
+- Overreact 🎉  
+- Over-animate 💃  
+- Over-embarrass 😈  
 
----
-
-## 🛠️ Tech Stack
-
-This project is built with a focus on simplicity and performance, using fundamental web technologies:
-
-* **HTML5:** For the structure and content of the webpage.
-* **CSS3 & Less:** For styling and creating the beautiful animations.
-* **JavaScript & jQuery:** For the interactive elements and animations.
+Instead of texting “HBD bro”, send this and **force them to smile** (or cringe).
 
 ---
 
-## 🚀 Getting Started
+## 🎭 Why You Should Use This
 
-To get a local copy up and running, follow these simple steps.
+- 🎂 Cake without calories  
+- 🎉 Party without expenses  
+- 😈 Roast without consequences  
+- 📱 Works on phone, laptop, fridge (almost)
 
-### Prerequisites
-
-You will need either Python or Node.js installed on your machine to run a local web server.
-
-### Installation & Local Setup
-
-1.  **Clone the repository:**
-    ```bash
-    git clone https://github.com/Manish-Prajapati32/manish.git
-    ```
-2.  **Navigate to the project directory:**
-    ```bash
-    cd manish
-    ```
-3.  **Run a local server:**
-
-    * **Using Python:**
-        ```bash
-        python -m SimpleHTTPServer 8081
-        ```
-        Then, open your browser and navigate to `http://localhost:8081`.
-
-    * **Using Node.js:**
-        First, install the dependencies:
-        ```bash
-        npm install
-        ```
-        Then, run the server:
-        ```bash
-        npm run server-node
-        ```
-        And navigate to `http://localhost:8081` in your browser.
+Basically, maximum drama with minimum effort.
 
 ---
 
-## 🎮 Usage
+## 🚀 Features (Totally Serious)
 
-To customize this template for your own use, you can edit the `index.html` file to change the name and messages.
+- 🎆 Flashy birthday animations
+- 🧍 Personalized name so they feel special (for 10 seconds)
+- 📱 Mobile-friendly (because everyone stalks on phone)
+- ⚡ No frameworks, no headache, no excuses
+- 🌍 Runs in browser, not in your imagination
 
-For example, to change the name, find the following line in `index.html` and replace "Present Name" with the desired name:
+---
 
-```html
-<h1 class="happy-birthday">Happy Birthday Your-Name</h1>
-```
+## 🧠 Tech Stack (No Rocket Science)
 
-## Star History
+- 🧱 **HTML5** – bones of the website  
+- 🎨 **CSS3 / LESS** – glow-up & drama  
+- ⚙️ **JavaScript + jQuery** – making things move for no reason  
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Manish-Prajapati32/manish&type=Date)](https://www.star-history.com/#Manish-Prajapati32/manish&Date)
-# Birthday-Wish
+---
+
+## 👀 Screenshots (Proof It Exists)
+
+> Warning: Too much happiness ahead
+
+![Preview 1](https://raw.githubusercontent.com/sapthesh/Birthday/master/b1.png)
+![Preview 2](https://raw.githubusercontent.com/sapthesh/Birthday/master/b2.png)
+![Preview 3](https://raw.githubusercontent.com/sapthesh/Birthday/master/b3.png)
+![Preview 4](https://raw.githubusercontent.com/sapthesh/Birthday/master/b4.png)
+![Preview 5](https://raw.githubusercontent.com/sapthesh/Birthday/master/b5.png)
+
+---
+
+## 🏃‍♂️ How To Run (Even You Can Do This)
+
+### 🧲 Clone It
+```bash
+git clone https://github.com/Manish-Prajapati32/Birthday-Wish.git
