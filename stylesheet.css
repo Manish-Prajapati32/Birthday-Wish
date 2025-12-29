@@ -520,4 +520,106 @@ audio {
 		padding: 10px 20px;
 		font-size: 0.8rem;
 	}
+
+	.cake-container {
+		height: 150px;
+		margin-top: 30px;
+	}
+
+	.cake {
+		transform: scale(0.75);
+	}
+
+	.bounce-in {
+		transform: scale(0.75);
+	}
+
+	.banner-container {
+		height: 100px;
+		margin-top: 15px;
+	}
+
+	.bannar {
+		width: 400px;
+	}
+
+	.lights-container {
+		gap: 15px;
+		margin-top: 15px;
+	}
+
+	.bulb {
+		width: 35px;
+		height: 35px;
+	}
+}
+
+@media (max-width: 480px) {
+	.balloons h2 {
+		font-size: 25px;
+		margin-top: 30px;
+	}
+
+	.balloons {
+		width: 60px;
+		height: 110px;
+	}
+
+	.message-container {
+		width: 98%;
+		padding: 20px;
+		max-height: 80vh;
+	}
+
+	.message-content p {
+		font-size: 1rem;
+		line-height: 1.6;
+	}
+
+	.controls-deck {
+		bottom: 5px;
+		padding: 8px;
+		gap: 10px;
+	}
+
+	.btn-control {
+		padding: 8px 16px;
+		font-size: 0.7rem;
+	}
+
+	.cake-container {
+		height: 120px;
+		margin-top: 20px;
+	}
+
+	.cake {
+		transform: scale(0.6);
+	}
+
+	.bounce-in {
+		transform: scale(0.6);
+	}
+
+	.banner-container {
+		height: 80px;
+		margin-top: 10px;
+	}
+
+	.bannar {
+		width: 300px;
+	}
+
+	.lights-container {
+		gap: 10px;
+		margin-top: 10px;
+	}
+
+	.bulb {
+		width: 30px;
+		height: 30px;
+	}
+
+	.main-container {
+		padding: 15px;
+	}
 }
