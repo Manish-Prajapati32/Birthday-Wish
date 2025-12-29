@@ -6,13 +6,21 @@ $('document').ready(function () {
 	var vw;
 	$(window).resize(function () {
 		vw = $(window).width() / 2;
+		var b1_pos = vw - (vw * 0.4); // 10% from center
+		var b2_pos = vw - (vw * 0.2); // 20% from center
+		var b3_pos = vw; // 30% from center
+		var b4_pos = vw + (vw * 0.2); // 40% from center
+		var b5_pos = vw + (vw * 0.4); // 50% from center
+		var b6_pos = vw + (vw * 0.6); // 60% from center
+
+
 		$('#b1,#b2,#b3,#b4,#b5,#b6').stop();
-		$('#b11').animate({ top: 140, left: vw - 250 }, 500);
-		$('#b22').animate({ top: 140, left: vw - 150 }, 500);
-		$('#b33').animate({ top: 140, left: vw - 50 }, 500);
-		$('#b44').animate({ top: 140, left: vw + 50 }, 500);
-		$('#b55').animate({ top: 140, left: vw + 150 }, 500);
-		$('#b66').animate({ top: 140, left: vw + 250 }, 500);
+		$('#b11').animate({ top: 140, left: b1_pos }, 500);
+		$('#b22').animate({ top: 140, left: b2_pos }, 500);
+		$('#b33').animate({ top: 140, left: b3_pos }, 500);
+		$('#b44').animate({ top: 140, left: b4_pos }, 500);
+		$('#b55').animate({ top: 140, left: b5_pos }, 500);
+		$('#b66').animate({ top: 140, left: b6_pos }, 500);
 	});
 
 	$('#turn_on').click(function () {
@@ -51,35 +59,35 @@ $('document').ready(function () {
 	});
 
 	function loopOne() {
-		var randleft = 1000 * Math.random();
+		var randleft = $(window).width() * Math.random();
 		var randtop = 500 * Math.random();
 		$('#b1').animate({ left: randleft, bottom: randtop }, 10000, function () {
 			loopOne();
 		});
 	}
 	function loopTwo() {
-		var randleft = 1000 * Math.random();
+		var randleft = $(window).width() * Math.random();
 		var randtop = 500 * Math.random();
 		$('#b2').animate({ left: randleft, bottom: randtop }, 10000, function () {
 			loopTwo();
 		});
 	}
 	function loopThree() {
-		var randleft = 1000 * Math.random();
+		var randleft = $(window).width() * Math.random();
 		var randtop = 500 * Math.random();
 		$('#b3').animate({ left: randleft, bottom: randtop }, 10000, function () {
 			loopThree();
 		});
 	}
 	function loopFour() {
-		var randleft = 1000 * Math.random();
+		var randleft = $(window).width() * Math.random();
 		var randtop = 500 * Math.random();
 		$('#b4').animate({ left: randleft, bottom: randtop }, 10000, function () {
 			loopFour();
 		});
 	}
 	function loopFive() {
-		var randleft = 1000 * Math.random();
+		var randleft = $(window).width() * Math.random();
 		var randtop = 500 * Math.random();
 		$('#b5').animate({ left: randleft, bottom: randtop }, 10000, function () {
 			loopFive();
@@ -87,7 +95,7 @@ $('document').ready(function () {
 	}
 
 	function loopSix() {
-		var randleft = 1000 * Math.random();
+		var randleft = $(window).width() * Math.random();
 		var randtop = 500 * Math.random();
 		$('#b6').animate({ left: randleft, bottom: randtop }, 10000, function () {
 			loopSix();
@@ -128,6 +136,12 @@ $('document').ready(function () {
 
 	$('#wish_message').click(function () {
 		vw = $(window).width() / 2;
+		var b1_pos = vw - (vw * 0.4);
+		var b2_pos = vw - (vw * 0.2);
+		var b3_pos = vw;
+		var b4_pos = vw + (vw * 0.2);
+		var b5_pos = vw + (vw * 0.4);
+		var b6_pos = vw + (vw * 0.6);
 
 		$('#b1,#b2,#b3,#b4,#b5,#b6').stop();
 		$('#b1').attr('id', 'b11');
@@ -136,12 +150,12 @@ $('document').ready(function () {
 		$('#b4').attr('id', 'b44')
 		$('#b5').attr('id', 'b55')
 		$('#b6').attr('id', 'b66')
-		$('#b11').animate({ top: 140, left: vw - 250 }, 500);
-		$('#b22').animate({ top: 140, left: vw - 150 }, 500);
-		$('#b33').animate({ top: 140, left: vw - 50 }, 500);
-		$('#b44').animate({ top: 140, left: vw + 50 }, 500);
-		$('#b55').animate({ top: 140, left: vw + 150 }, 500);
-		$('#b66').animate({ top: 140, left: vw + 250 }, 500);
+		$('#b11').animate({ top: 140, left: b1_pos }, 500);
+		$('#b22').animate({ top: 140, left: b2_pos }, 500);
+		$('#b33').animate({ top: 140, left: b3_pos }, 500);
+		$('#b44').animate({ top: 140, left: b4_pos }, 500);
+		$('#b55').animate({ top: 140, left: b5_pos }, 500);
+		$('#b66').animate({ top: 140, left: b6_pos }, 500);
 		$('.balloons').css('opacity', '0.9');
 		$('.balloons h2').fadeIn(3000);
 		window.startConfetti(); // Trigger confetti
