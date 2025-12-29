@@ -53,19 +53,7 @@ Basically, maximum drama with minimum effort.
 - 🎨 **CSS3 / LESS** – glow-up & drama  
 - ⚙️ **JavaScript + jQuery** – making things move for no reason  
 
----
 
-## 👀 Screenshots (Proof It Exists)
-
-> Warning: Too much happiness ahead
-
-![Preview 1](https://raw.githubusercontent.com/sapthesh/Birthday/master/b1.png)
-![Preview 2](https://raw.githubusercontent.com/sapthesh/Birthday/master/b2.png)
-![Preview 3](https://raw.githubusercontent.com/sapthesh/Birthday/master/b3.png)
-![Preview 4](https://raw.githubusercontent.com/sapthesh/Birthday/master/b4.png)
-![Preview 5](https://raw.githubusercontent.com/sapthesh/Birthday/master/b5.png)
-
----
 
 ## 🏃‍♂️ How To Run (Even You Can Do This)
 
