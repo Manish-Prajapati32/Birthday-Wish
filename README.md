@@ -1,12 +1,12 @@
 <h1 align="center"> 🎂 Customizable Birthday Web Template 🎂 </h1>
 
 
-[![Stars](https://img.shields.io/github/stars/sapthesh/Birthday?style=for-the-badge)](https://github.com/sapthesh/Birthday/stargazers)
-[![Forks](https://img.shields.io/github/forks/sapthesh/Birthday?style=for-the-badge)](https://github.com/sapthesh/Birthday/network/members)
-[![License](https://img.shields.io/github/license/sapthesh/Birthday?style=for-the-badge)](LICENSE)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://sapthesh.github.io/Birthday/)
-<a href="https://hits.sh/github.com/sapthesh/Birthday/"><img alt="Hits" src="https://hits.sh/github.com/sapthesh/Birthday.svg?style=for-the-badge"/></a>
-<a href="https://hits.sh/github.com/sapthesh/Birthday/"><img alt="Hits" src="https://hits.sh/github.com/sapthesh/Birthday.svg?view=today-total&style=for-the-badge&color=fe7d37"/></a>
+[![Stars](https://img.shields.io/github/stars/Manish-Prajapati32/manish?style=for-the-badge)](https://github.com/Manish-Prajapati32/manish/stargazers)
+[![Forks](https://img.shields.io/github/forks/Manish-Prajapati32/manish?style=for-the-badge)](https://github.com/Manish-Prajapati32/manish/network/members)
+[![License](https://img.shields.io/github/license/Manish-Prajapati32/manish?style=for-the-badge)](LICENSE)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://manish-prajapati32.github.io/manish/)
+<a href="https://hits.sh/github.com/Manish-Prajapati32/manish/"><img alt="Hits" src="https://hits.sh/github.com/Manish-Prajapati32/manish.svg?style=for-the-badge"/></a>
+<a href="https://hits.sh/github.com/Manish-Prajapati32/manish/"><img alt="Hits" src="https://hits.sh/github.com/Manish-Prajapati32/manish.svg?view=today-total&style=for-the-badge&color=fe7d37"/></a>
   
 
 
@@ -56,11 +56,11 @@ You will need either Python or Node.js installed on your machine to run a local 
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/sapthesh/Birthday.git](https://github.com/sapthesh/Birthday.git)
+    git clone https://github.com/Manish-Prajapati32/manish.git
     ```
 2.  **Navigate to the project directory:**
     ```bash
-    cd Birthday
+    cd manish
     ```
 3.  **Run a local server:**
 
@@ -95,5 +95,4 @@ For example, to change the name, find the following line in `index.html` and rep
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=sapthesh/Birthday&type=Date)](https://www.star-history.com/#sapthesh/Birthday&Date)
-# manish
+[![Star History Chart](https://api.star-history.com/svg?repos=Manish-Prajapati32/manish&type=Date)](https://www.star-history.com/#Manish-Prajapati32/manish&Date)
